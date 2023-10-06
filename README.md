@@ -8,3 +8,12 @@ SIMULE EL PRIMER SISTEMA CUÁNTICO DESCRITO EN LA SECCIÓN 4.1.
 2. El sistema si se le da otro vector Ket debe buscar la probabilidad de transitar del primer vector al segundo.
 
 
+COMPLETANDO LOS RETOS DE PROGRAMACIÓN DEL CAPÍTULO 4.
+
+En esta actualizacion del repositorio se agrega.
+
+1. Amplitud de transición. El sistema puede recibir dos vectores y calcular la probabilidad de transitar de el uno al otro después de hacer la observación
+
+2. Ahora con una matriz que describa un observable y un vector ket, el sistema revisa que la matriz sea hermitiana, y si lo es, calcula la media y la varianza del observable en el estado dado.
+
+
